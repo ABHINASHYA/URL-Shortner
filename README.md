@@ -126,8 +126,3 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 ## 📜 License
 
 This project is licensed under the MIT License.
-
----
-
-👉 Do you want me to **make it specific to Spring Boot + MySQL** (with code snippets for `application.properties`), or should I keep it generic Java?
-# URL-Shortner
